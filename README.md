@@ -1,2 +1,2 @@
-# ValueSetView
+# 自定义滑动区间取值控件
 Android自定义区间取值控件
